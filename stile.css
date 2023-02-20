@@ -1,3 +1,10 @@
-*{
-    color: aqua;
-}
+@font-face {
+    font-family: dromo;
+    src: url(RTDromo-Medium.ttf);
+  }
+
+  *{
+    font-family: dromo;
+    font-size: 24pt;
+    margin: 5px;
+  }
