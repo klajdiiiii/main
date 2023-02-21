@@ -5,7 +5,25 @@
 
   *{
     font-family: dromo;
-    font-size: 24pt;
-    margin: 5px;
-    color: black;
+    margin: 0.2%; 
+  }
+
+  .titoli{
+    display: flex;
+    font-size: 48px; 
+    
+  }
+
+  #nome{
+    
+  }
+
+  #sezione{
+
+  }
+
+  .testi{
+    margin-top: 0.5%;
+    max-width: 50%;
+    font-size: 2em; 
   }
